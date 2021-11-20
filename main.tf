@@ -17,6 +17,6 @@ module "vpc" {
     Environment = "dev"
     Team = "SRE"
     BU = "Conta Digital"
-    CC = "10423"
+    CC = "11502"
   }
 }
